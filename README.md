@@ -9,7 +9,7 @@ Matheus Battisti - Hora de codar
 ## 🔥 Introdução
 
 Este projeto tem objetivo mostrar o IMC do usuario com os valores digitados pelo mesmo e o resultado e exibido em seguida contendo algumas informações
-- Responsividade: Mobile
+
 
 Projeto Web
 
